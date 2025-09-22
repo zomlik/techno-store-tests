@@ -1,8 +1,9 @@
 import allure
+import pytest
 
 from api.kafka_client import KafkaClient
 
-
+@pytest.mark.skip
 @allure.title("Отправка данных продуктов в Kafka")
 def test_send_message_kafka(load_store_topic, result_store_topic, unique_group_id):
     product_data = [

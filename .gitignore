@@ -161,3 +161,5 @@ cython_debug/
 #.idea/
 .flake8
 pyproject.toml
+allure-report
+.idea
