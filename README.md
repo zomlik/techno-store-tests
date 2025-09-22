@@ -1,9 +1,5 @@
 # 🚀 Описание проекта  
-Автотесты на Python для API (httpx) и UI (Playwright)  
-Цель: Получить практические навыки в автоматизации тестирования  
-
-Страница проекта: https://taiga.io/  
-Allure-Report: https://zomlik.github.io/project-autotests/
+Тестовое задание для компании IT_One
 
 ## 🛠 Технологии
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +37,7 @@ ADMIN.PASSWORD="admin"
 ## ⚙️ Установка
 1. Клонировать репозиторий:  
    ```bash
-   git clone 
+   git clone https://github.com/zomlik/techno-store-tests.git
    ```
 2. Создать виртуальное окружение:  
    Linux/MacOs
